@@ -1,0 +1,10 @@
+
+
+#configuration file
+/ewuclassroom/config.env
+
+#cache files
+*/__pycache__/
+
+#migrations files
+*/migrations/
